@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is the chocolate mod that's under development.",
+        "name": "Chocolate Edition Behavior",
+        "uuid": "c443a6f5-4a76-48a5-8ce5-05fb8fd8663e",
+        "min_engine_version": [1, 16, 201],
+        "version": [1, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Chocolate Pack",
+            "type": "data",
+            "uuid": "6e98168e-8f5a-4a1c-8a9b-bc3f08e04929",
+            "version": [1, 0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "649c4ae1-5713-4ba4-93b2-ad1e50c99964",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}

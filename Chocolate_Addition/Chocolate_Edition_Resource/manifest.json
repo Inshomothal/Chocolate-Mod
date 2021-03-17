@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is the chocolate mod that's under development.",
+        "name": "Chocolate Edition Resources",
+        "uuid": "649c4ae1-5713-4ba4-93b2-ad1e50c99964",
+        "min_engine_version": [
+            1,
+            16,
+            201
+        ],
+        "version": [
+            1,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "Chocolate Resource Pack",
+            "type": "resources",
+            "uuid": "03817bd3-ec33-4086-88cd-8bf67e2354f8",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+    
+}
